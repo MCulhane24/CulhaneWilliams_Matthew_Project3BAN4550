@@ -40,7 +40,8 @@ Prescriptive: Should Progressive give earnings guidance or pre-announce bad news
   Industrial Machinery & Computers: 3,058 quarters pulled, 2,951 after the link, 1,730 after all rules (131 companies).
 ## How the tables fit together
 We needed to merge the data to get the data on the same page in order to run the regressions. We got the data from the shared link, and then merged the variables in four separate merges to get cleaned data that can be used. The date rule is that day 0 is the first trading day on or after the announcement date. This allows us to move day 0 to a trading day if the market is closed, and therefore the reaction shows up on the next trading day.
-![Merge map](figures/merge_map.png)
+
+![Merge map](merge_map.png)
 
 ## How I checked the results
 One real check is by looking at the average of the CAR when removing the top 5 greatest CARs, as they may be outliers that skew the data. There is a chance that the biggest outliers carry the data in a direction that looks better on average than it really is. A check would be to remove the top 5 greatest CARs and then see the average. Before the removal, the High group CAR was 1.984%. After removal, the high group CAR was 1.8884%.
