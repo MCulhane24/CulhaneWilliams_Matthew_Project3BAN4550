@@ -80,7 +80,7 @@ Results changed because it removed unguarded cells, making the data more precise
 | Claude | Share Link | [https://claude.ai/share/c234a676-8a40-421d-adf5-670f1703ae98] | Used for coding and explanation, and powerpoint/slideshow construction
 
 ## Files
-notebooks/   [Notebook](<CulhaneWilliams_Matthew_Project3 (2).ipynb>) (runs top to bottom on WRDS JupyterHub)
+notebooks/   [Notebook](<CulhaneWilliams_Matthew_Project3(2).ipynb>) (runs top to bottom on WRDS JupyterHub)
 figures/     figure1_car_by_group.png, figure2_scatter.png, figure3_loss_share.png, merge_map.png
 docs/        [Slides (PDF)](CulhaneWilliams_Matthew_Project3.pdf)
 README.md
